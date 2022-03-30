@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.discount.FifteenPercentDiscountTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-30T13:51:31" hostname="DESKTOP-ENVA86M" time="0.006">
+  <properties/>
+  <testcase name="shouldNotApply15PercentDiscountWhenLessThan3Grain()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <testcase name="shouldApply15and10PercentDiscount()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <testcase name="shouldApply15butNot10PercentDiscount()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <testcase name="shouldApply15PercentDiscountWhen3GrainProducts()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
